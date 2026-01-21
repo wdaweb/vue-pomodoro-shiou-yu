@@ -1,0 +1,1 @@
+import{j as i,r as t}from"./index-CuE9uGbX.js";const c=i("list",()=>{const s=t([]),e=t([]),o=t(""),r=t(1);return{items:s,finishedItems:e,currentItem:o,id:r}},{persist:{key:"pomodoro-list"}});export{c as u};
